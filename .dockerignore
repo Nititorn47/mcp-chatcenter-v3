@@ -1,0 +1,8 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+*.md
+mcp-proxy
+pam-chatcenter-mcp-proxy

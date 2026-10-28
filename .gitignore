@@ -1,0 +1,5 @@
+.env
+.env.local
+mcp-proxy
+pam-chatcenter-mcp-proxy
+coverage.out
